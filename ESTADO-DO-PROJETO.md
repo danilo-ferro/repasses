@@ -30,7 +30,8 @@ Os dois leem/gravam a mesma base: o que um faz, o outro vê (atualização autom
 
 ## 2. Endereços e acessos
 
-- **Repositório:** https://github.com/ropelimi/repasses (branch `main`)
+- **Repositório:** https://github.com/danilo-ferro/repasses (branch `main`)
+  *(até o começo de novembro/2026 o repositório estava em `ropelimi/repasses`; ele mudou de dono para `danilo-ferro` — mesmo repositório, mesmo histórico, a numeração dos PRs continuou do #20 para o #21. O endereço antigo **redireciona** para o novo, então `git push` e as ferramentas que ainda usam `ropelimi/repasses` continuam funcionando. A Vercel seguiu a mudança sozinha: o deploy do PR #21 saiu normalmente, já registrado como `danilo-ferro`.)*
   *(o endereço antigo `danilo-ferro/sistema-repasses-canaverde` estava neste documento até 23/07/2026 e não é mais o repositório usado.)*
 - **Supabase project_id:** `maytgfyzvoufepaerwwn`
 - **SUPABASE_URL:** `https://maytgfyzvoufepaerwwn.supabase.co`
